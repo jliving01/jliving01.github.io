@@ -1,4 +1,4 @@
-// flag to prevent running simultaneous sorts by clicking 
+// flag to prevent running simultaneous sorts by clicking
 // "start" multiple times
 let STARTED = false;
 
